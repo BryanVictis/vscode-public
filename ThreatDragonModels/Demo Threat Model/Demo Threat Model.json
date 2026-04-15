@@ -2016,7 +2016,7 @@
             }
           }
         ],
-        "version": "2.3.0",
+        "version": "2.6.0",
         "title": "Main Request Data Flow",
         "description": "",
         "thumbnail": "./public/content/images/thumbnail.stride.jpg",
@@ -2025,10 +2025,10 @@
       },
       {
         "id": 1,
-        "title": "New CIA-DIE diagram",
-        "diagramType": "CIADIE",
-        "placeholder": "New CIA-DIE diagram description",
-        "thumbnail": "./public/content/images/thumbnail.die.jpg",
+        "title": "New CIA diagram",
+        "diagramType": "CIA",
+        "placeholder": "New CIA diagram description",
+        "thumbnail": "./public/content/images/thumbnail.cia.jpg",
         "version": "2.6.0",
         "cells": []
       }
@@ -2037,5 +2037,5 @@
     "reviewer": "Jane Smith",
     "threatTop": 0
   },
-  "version": "2.3.0"
+  "version": "2.6.0"
 }
